@@ -1,4 +1,5 @@
 <script src='svelte.js'>
+    import 
 
     let items = [
         {
@@ -8,7 +9,7 @@
     },
     {
         title: "It reminds me of Swift, my favorite so far",
-        faq: "the binding syntax is intuitive",
+        faq: "The binding syntax is intuitive",
         img: "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/keycap-digit-one_31-fe0f-20e3.png",
     },
     {
